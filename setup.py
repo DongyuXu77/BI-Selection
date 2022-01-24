@@ -14,8 +14,8 @@ setup(
 	name="textContribution",
 	version=version,
 	author="Xudongyu",
-	description="a package for BI-Selection",
+	description=('A BI-Selection toolkit to recognize text character'),
 	install_requires=setupRequires,
 	packages=find_packages(),
-	python_requires='>=3'
+	python_requires='>=3.5'
 )
