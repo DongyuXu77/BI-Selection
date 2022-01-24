@@ -1,0 +1,5 @@
+matplotlib==3.5.0
+numpy==1.19.2
+Pillow==9.0.0
+pyscreenshot==3.0
+setuptools==58.0.4
